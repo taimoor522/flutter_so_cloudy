@@ -1,5 +1,5 @@
-# flutter_so_cloudy
-Weather App build using flutter. Displays weather using current location as well as any city name in the world.
+# SO_CLOUDY WEather App
+   Weather App build using flutter. Displays weather using current location as well as any city name in the world.
 
 # APIs
   * <a href="https://openweathermap.org/" > Open Weather Map</a>
