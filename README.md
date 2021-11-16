@@ -11,15 +11,15 @@ Weather App build using flutter. Displays weather using current location as well
 
 # Weather Using Current Location
 
-<img src="/assets.demo/2.jpg"  width="300" >
+<img src="/assets/demo/2.jpg"  width="300" >
 
 # Weather Using City Name
 
-<img src="/assets.demo/3.jpg"  width="300" >
+<img src="/assets/demo/3.jpg"  width="300" >
 
 # Refresh Indicator
 
-<img src="/assets.demo/4.jpg"  width="300" >
+<img src="/assets/demo/4.jpg"  width="300" >
 
 
 
