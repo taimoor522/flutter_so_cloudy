@@ -1,0 +1,1 @@
+class InValidCityException implements Exception {}
