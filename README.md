@@ -5,6 +5,9 @@
   * <a href="https://openweathermap.org/" > Open Weather Map</a>
   * <a href="https://geocode.xyz/api" > Geo Code</a>
 
+# UI Inspitaion
+  <a href="https://github.com/taimoor522/flutter_so_cloudy" > Open Weather Map</a>
+
 ## What I Learned
   * State Management using BLoc/Cubit
   * Calling more than one api and combine their data
