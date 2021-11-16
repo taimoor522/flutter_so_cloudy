@@ -1,6 +1,10 @@
 # flutter_so_cloudy
 Weather App build using flutter. Displays weather using current location as well as any city name in the world.
 
+# APIs
+  * <a href="https://openweathermap.org/" > Open Weather Map</a>
+  * <a href="https://geocode.xyz/api" > Geo Code</a>
+
 ## What I Learned
   * State Management using BLoc/Cubit
   * Calling more than one api and combine their data
