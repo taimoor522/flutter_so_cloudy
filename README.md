@@ -6,7 +6,7 @@
   * <a href="https://geocode.xyz/api" > Geo Code</a>
 
 # UI Inspitaion
-  <a href="https://github.com/taimoor522/flutter_so_cloudy" > Open Weather Map</a>
+  <a href="https://github.com/taimoor522/flutter_so_cloudy" >Behance</a>
 
 ## What I Learned
   * State Management using BLoc/Cubit
