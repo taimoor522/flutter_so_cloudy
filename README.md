@@ -1,4 +1,4 @@
-# SO_CLOUDY WEather App
+# SO_CLOUDY Weather App
    Weather App build using flutter. Displays weather using current location as well as any city name in the world.
 
 # APIs
